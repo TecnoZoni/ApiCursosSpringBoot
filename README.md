@@ -20,4 +20,3 @@ Api creada como ejercicio practico en el curso de Java Spring Boot en todo Code,
 
 ## Obtener todos los cursos que contengan como nombre la palabra “Java” (puede contener otras palabras, por ejemplo, Introducción a Java, Java avanzado, Java para principiantes, etc). 
   Con una peticion GET a "/curso/traer/java" traera todos los cursos que contengan en su nombre la palabra "Java".
-
